@@ -47,7 +47,7 @@ The resulting lifespan estimates were combined with manufacturing and operating 
 
 ### Yearly Emissions by Lifespan
 
-![Yearly Emissions by Lifespan](yearly_emissions_by_year.png)
+![Yearly Emissions by Lifespan](yearly_co2_emissions_by_year.png)
 
 ## Optimization Model
 
