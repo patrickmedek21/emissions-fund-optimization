@@ -1,0 +1,10 @@
+category,type,year,brand,model,city_mpg,highway_mpg,combined_mpg,weight_lbs
+ICE,Sedan,2024,Toyota,Camry AWD LE/SE,25,34,29,3310
+ICE,SUV,2024,Toyota,RAV4 AWD,27,33,29,3640
+ICE,Truck,2024,Ford,F-150 4WD 5.0L,16,24,19,5122
+PHEV,Sedan,2024,Toyota,Camry Hybrid LE,51,53,52,3480
+PHEV,SUV,2024,Toyota,RAV4 Hybrid AWD,41,38,39,3775
+PHEV,Truck,2024,Ford,Maverick HEV FWD,42,33,37,3674
+BEV,Sedan,2024,Tesla,Tesla Model 3 Long Range,137,124,130,4030
+BEV,SUV,2024,Honda,Prolouge AWD Touring,101,88,95,5207
+BEV,Truck,2024,Ford,F-150 Lightning 4WD,76,61,68,6015
